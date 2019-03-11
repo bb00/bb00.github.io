@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "What I learned at ProfHacks"
+title: "What I learned at ProfHacks 2019"
 date: 2019-03-11 15:30:00 -0400
 categories: hackathon blogit
 ---
-
+#Preface
 This last weekend, I attended ProfHacks 2019. It was an interesting experience, being my first hackathon since high school.
 
 I came alone, with my 3 laptops in tow, all provided by my workplace for one purpose or another:
 
 * My daily driver, a 13" Retina Early 2015 MacBook Pro with 2-core 3.1GHz i7 and Iris 6100 graphics iGPU,
 * my Windows box, a Surface Pro 4,
-* my pentest machine, an EliteBook 840 G3 upgraded for a total 8GB memory, 
+* my pentest machine, an EliteBook 840 G3 upgraded for a total 8GB memory.
+
+I felt fairly prepared, given that I expected to be writing a bit of Python these next 24 hours, and making a small, localized network for myself and my team-mates.
+
+Little did I realize, I could borrow an Oculus Rift for use in our hack from the MLH Hardware Lab. 
