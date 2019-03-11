@@ -15,4 +15,11 @@ I came alone, with my 3 laptops in tow, all provided by my workplace for one pur
 
 I felt fairly prepared, given that I expected to be writing a bit of Python these next 24 hours, and making a small, localized network for myself and my team-mates.
 
-Little did I realize, I could borrow an Oculus Rift for use in our hack from the MLH Hardware Lab. 
+Little did I realize, I could borrow an Oculus Rift for use in our hack from the MLH Hardware Lab. These guys had been following a tutorial for an AIY Google Voice Kit, so at this point, I've spoken to:
+
+ * Zachary Cronin, an accepted student of Rowan,
+ * [Ganesh Chandrasekaran](https://www.gchandra.com/), a Sr. Engineer at Comcast and Adjunct Professor of Rowan,
+ * [Gautom Das](https://github.com/gautomdas) and [Alex Kreidler](https://github.com/alexkreidler), some pretty cool guys who work with AI and stuff,
+ * the two who happen to be my final team-mates, Spencer Granit and Tyler Humbert, both students at Rowan.
+
+
