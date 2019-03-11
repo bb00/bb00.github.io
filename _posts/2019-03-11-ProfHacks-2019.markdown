@@ -4,7 +4,8 @@ title: "What I learned at ProfHacks 2019"
 date: 2019-03-11 15:30:00 -0400
 categories: hackathon blogit
 ---
-#Preface
+
+# Preface
 This last weekend, I attended ProfHacks 2019. It was an interesting experience, being my first hackathon since high school.
 
 I came alone, with my 3 laptops in tow, all provided by my workplace for one purpose or another:
